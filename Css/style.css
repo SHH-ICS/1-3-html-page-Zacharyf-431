@@ -1,17 +1,6 @@
 body{
   background-color:rgb(100, 187, 199);
-}
-h1{
+  padding: 40px;
+  text-align: center;
   color: hsl(0, 0%, 0%);
-  padding: 40px;
-  text-align: center;
-  }
-
-img {
-  padding: 40px;
-  text-align: center;
-  }
-}
-p {
-  background-color:#000000;
 }
