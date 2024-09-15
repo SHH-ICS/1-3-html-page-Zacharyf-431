@@ -4,7 +4,7 @@
       padding: 40px;
       text-align: center;
     }
-    #image {
+    #styleimage.jpeg {
       padding: 40px;
       text-align: center;
     }
