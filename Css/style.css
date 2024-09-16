@@ -1,7 +1,7 @@
 body{
   background-color:rgb(100, 187, 199);
 }
-h1 {
+title {
   background-color: rgb(255, 87, 87);
   color: hsl(0, 0%, 0%);
   padding: 40px;
@@ -9,5 +9,5 @@ h1 {
 }
 
 p {
-  background-color:#000000;
+  background-color:#ffffff;
 }
